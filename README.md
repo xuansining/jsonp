@@ -1,4 +1,5 @@
-##Access-Control-Allow-Origin
+# 模拟跨域
+## Access-Control-Allow-Origin
 
 chrome
 
